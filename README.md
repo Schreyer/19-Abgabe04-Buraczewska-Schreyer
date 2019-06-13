@@ -24,8 +24,8 @@ Dieses Projekt dient als Gesamtwiederholung aller über das Semester gelernten I
 
 ## Taskliste: ##
 
-- [ ] Übertragen Angabe Taskliste in Markdown Readme
-- [ ] Einspielen Queue Vorlage aus Repository: https://github.com/michaelulm/software-configuration-management/tree/master/test-automation/Queue
+- [x] Übertragen Angabe Taskliste in Markdown Readme
+- [x] Einspielen Queue Vorlage aus Repository: https://github.com/michaelulm/software-configuration-management/tree/master/test-automation/Queue
 - [ ] Taskergebnisse Schritt für Schritt auf Git stellen
   - Führung Taskliste
   - Veröffentlichung in Git mit aktuell durchgeführten Tätigkeiten, z.B. Testfälle geschrieben so wird auch in der Taskliste diese Aufgabe als erledigt markiert und Testfälle inkl. geänderter Taskliste ins Repository übertragen.
