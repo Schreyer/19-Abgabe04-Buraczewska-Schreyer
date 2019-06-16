@@ -4,10 +4,16 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
+import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 import java.util.NoSuchElementException;
 
+/**
+ * This class tests the StringQueue class.
+ * @author Diana Buraczewska
+ * @author Lukas Schreyer
+ */
 public class StringQueueTest {
 
     /**
@@ -114,6 +120,15 @@ public class StringQueueTest {
     @Test(expected = NoSuchElementException.class)
     public void testNoSuchElementException() {
         q.element();
+    }
+
+    /**
+     * this method tests if the first element in the queue gets returned by element method
+     */
+    @Test
+    public void testElementReturnFirst() {
+        q.offer("first");
+        assertEquals("first", q.element());
     }
 
 }

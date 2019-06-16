@@ -128,7 +128,7 @@ public String poll() {
 
    ![JavaDoc](<https://github.com/Schreyer/19-Abgabe04-Buraczewska-Schreyer/blob/master/src/site/media/JavaDoc1.PNG?raw=true>)
 
-   ![<https://github.com/Schreyer/19-Abgabe04-Buraczewska-Schreyer/blob/master/src/site/media/JavaDoc2.PNG?raw=true>]()
+   ![](<https://github.com/Schreyer/19-Abgabe04-Buraczewska-Schreyer/blob/master/src/site/media/JavaDoc2.PNG?raw=t>)
 
    JavaDoc Kommentare macht man mit:
 
