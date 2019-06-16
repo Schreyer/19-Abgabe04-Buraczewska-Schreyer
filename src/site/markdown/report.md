@@ -128,6 +128,8 @@ public String poll() {
 
    ![JavaDoc](<https://github.com/Schreyer/19-Abgabe04-Buraczewska-Schreyer/blob/master/src/site/media/JavaDoc1.PNG?raw=true>)
 
+   ![<https://github.com/Schreyer/19-Abgabe04-Buraczewska-Schreyer/blob/master/src/site/media/JavaDoc2.PNG?raw=true>]()
+
    JavaDoc Kommentare macht man mit:
 
    ```java
@@ -218,7 +220,6 @@ public String poll() {
 
 ## LINKS/ LITERATUR ##
 
-- <https://maven.apache.org/>
 - <https://maven.apache.org/guides/mini/guide-site.html>
 - <https://maven.apache.org/plugins/maven-site-plugin/usage.html>
 - <https://docs.gitignore.io/>
