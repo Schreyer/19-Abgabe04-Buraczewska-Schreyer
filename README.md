@@ -39,10 +39,10 @@ Dieses Projekt dient als Gesamtwiederholung aller über das Semester gelernten I
   - Sie werden die „selben“ Testfälle mehrfach erstellen müssen um „mehrere Variationen“ für einen möglichst vollständigen Test zu erreichen. Achten Sie dabei mit unterschiedlichen Daten zu testen.
   - JavaDoc Kommentare erstellen.
   - Integrieren Sie ein Bild (der generierten Dokumentation) in Ihren Report.
-- [ ] Passen Sie Ihr pom.xml auf das Projekt an, damit Sie das Projekt erstellen aber auch Dokumentation generieren können.
+- [x] Passen Sie Ihr pom.xml auf das Projekt an, damit Sie das Projekt erstellen aber auch Dokumentation generieren können.
   - EntwicklerInnen Informationen hinzufügen.
   - Integration Logging Bibliothek log4j mittels Maven Dependencies.
-- [ ] Log4j (Version 2) integrieren und in jeder Methode ins Log schreiben
+- [x] Log4j (Version 2) integrieren und in jeder Methode ins Log schreiben
   - Siehe aktualisiertes Stack Beispiel.
   - Erstellen Sie einen Statischen Logger der auf die Konsole schreibt.
   - Konfigurieren Sie Logger über ein properties File.
