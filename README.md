@@ -55,7 +55,7 @@ Dieses Projekt dient als Gesamtwiederholung aller über das Semester gelernten I
     - Seite erläutert Funktionsweise Queue
   - Geben Sie ein Bild der Maven Site Dokumentation in den Lab Report
     - Der Inhalt der manuell erstellten Seite sollte ersichtlich sein
-- [ ] Erstellung detaillierter und nachvollziehbarer Markdown Lab Report
+- [x] Erstellung detaillierter und nachvollziehbarer Markdown Lab Report
   - Übertragung Information aus Labreport Template.
   - Alle Schritte dieser Übung nachvollziehbar erläutern.
   - Übung Github Flavor: Erstellen Sie einen Codeblock im Dokument, welcher 3 Zeilen Python und 3 Zeilen Java Source Code korrekt darstellt.
