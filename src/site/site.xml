@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="Queue">
+<publishDate position="right"/>
+<version position="left"/>
+    <body>
+        <links>
+            <item name="Apache" href="http://www.apache.org/"/>
+        </links>
+
+        <menu name="Queue">
+          <item name="Queue" href="queue.html"/>
+          </menu>
+        <menu ref="reports"/>
+
+    </body>
+
+
+</project>
