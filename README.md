@@ -61,6 +61,6 @@ Dieses Projekt dient als Gesamtwiederholung aller über das Semester gelernten I
   - Übung Github Flavor: Erstellen Sie einen Codeblock im Dokument, welcher 3 Zeilen Python und 3 Zeilen Java Source Code korrekt darstellt.
   - Korrekturlesen Dokumentation
   - PDF erstellen (zB Dillinger)
-- [ ] Überprüfung Vollständigkeit der Abgabe
-- [ ] Abgabe PDF Version der Abgabe
+- [x] Überprüfung Vollständigkeit der Abgabe
+- [x] Abgabe PDF Version der Abgabe
 
