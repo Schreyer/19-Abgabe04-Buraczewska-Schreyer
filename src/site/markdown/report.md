@@ -126,7 +126,7 @@ public String poll() {
 
    Es wurde jede Methode und jede Klasse in der StringQueue.java und in der TestStringQueue.java Klasse mittels JavaDoc Kommentar beschrieben. Danach konnte automatisch die JavaDoc Dokumentation über das Projekt erstellt werden. Das geht entweder über die IDE oder mit maven site.
 
-   ![](D:\Dateien Lukas\Studium\Semester 2\Konfigurationsmanagment\19-Abgabe04-Buraczewska-Schreyer\src\site\media\JavaDoc1.PNG)
+   ![JavaDoc](<https://github.com/Schreyer/19-Abgabe04-Buraczewska-Schreyer/blob/master/src/site/media/JavaDoc1.PNG?raw=true>)
 
    JavaDoc Kommentare macht man mit:
 
@@ -140,7 +140,7 @@ public String poll() {
 
    Es wurden mehrere Jnuit Test erstellt, um das gesamte Projekt überprüfen zu können. Mit der Funktion "Coverage" konnte kontrolliert werden, ob der gesamte Code getestet wurde. Wie zuvor schon erwähnt, wurde auch hier jede Klasse und jede Methode mittels JavaDoc dokumentiert.
 
-   ![](/../src/site/media/Junit Tests.PNG)
+   ![Junit Tests](<https://github.com/Schreyer/19-Abgabe04-Buraczewska-Schreyer/blob/master/src/site/media/Junit Tests.PNG?raw=true>)
 
 5. **pom.xml anpassen:**
 
@@ -168,16 +168,16 @@ public String poll() {
 
       Zuerst wurde ein log4j2.properties-File erzeugt, das die Konfigurationen, wie etwa wo die Logs hingeschrieben werden sollen, definiert. Dann konnte in jeder Klasse ein statischer Logger und bei jeder Methode Info-Lognachrichten erstellt werden. Des weiteren wurde bei Exceptions eine Error-Lognachricht erzeugt. Diese Lognachrichten wurden alle in der Konsole ausgegeben.
 
-      ![](/../src/site/media/logging1.PNG)
+      ![log4j](<https://github.com/Schreyer/19-Abgabe04-Buraczewska-Schreyer/blob/master/src/site/media/logging1.PNG?raw=true>)
 
-      ![](/../src/site/media/logging2.PNG)
+      ![Junit Tests](<https://github.com/Schreyer/19-Abgabe04-Buraczewska-Schreyer/blob/master/src/site/media/logging2.PNG?raw=>)
 
 7. **Maven Site Dokumentation erstellen:**
 
    Um nun das Projekt abzuschließen, wurde eine Maven Site Dokumenation erstelt. Diese Dokumentation wird automatisch generiert und beinhaltet in diesem Fall eine Allgemeine Beschreibung des Projektes, alle Dependencies, die Ergebnisse der Junit Tests und die JavaDoc Kommentare.
    Dazu wurde eine site.xml erzeugt, die angibt, welche Seiten dazugehören. In diesem Fall wurde noch eine Projektbeschreibung und dieser Lab-Report hinzugefügt. Diese Seiten wurden im Ordner Site gespeichert.
 
-   ![](/../src/site/media/Maven Site.PNG)
+   ![Maven Site](<https://github.com/Schreyer/19-Abgabe04-Buraczewska-Schreyer/blob/master/src/site/media/Maven Site.PNG?raw=true>)
 
 8. **Lab-Report erstellen:**
 
